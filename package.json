@@ -1,0 +1,18 @@
+{
+  "name": "discussion_forum",
+  "version": "1.0.0",
+  "description": "allows people all over the world to discuss their queries with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karan sehgal, rishabh rawat, kunal sharma, piyush jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "sequelize": "^5.21.3"
+  }
+}
